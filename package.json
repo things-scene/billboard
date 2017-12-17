@@ -1,9 +1,9 @@
 {
   "name": "@things-elements/things-scene-billboard",
   "flat": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An billboard component for things-scene.",
-  "main": "index.js",
+  "main": "things-scene-billboard-min.js",
   "directories": {
     "test": "test"
   },
