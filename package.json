@@ -1,5 +1,5 @@
 {
-  "name": "things-scene-billboard",
+  "name": "@things-elements/things-scene-billboard",
   "version": "0.1.0",
   "description": "An billboard component for things-scene.",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/ThingsElements/things-scene-billboard.git"
   },
-  "author": "",
+  "author": "heartyoh@hatiolab.com",
   "license": "http://things-scene.hatiolab.com/EULA/",
   "bugs": {
     "url": "https://github.com/ThingsElements/things-scene-billboard/issues"
