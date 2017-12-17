@@ -1,7 +1,7 @@
 {
   "name": "@things-elements/things-scene-billboard",
   "flat": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An billboard component for things-scene.",
   "main": "index.js",
   "directories": {
@@ -46,6 +46,5 @@
     "uglifyjs-webpack-plugin": "^1.0.1",
     "polymer-webpack-loader": "^2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
