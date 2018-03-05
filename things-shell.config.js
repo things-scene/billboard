@@ -1,9 +1,10 @@
-import locales from './locales'
+import locales from './locales';
+import icon from './assets/no-image.png';
 
 var templates = [{
   type: 'billboard',
   description: 'Things Scene Billboard Chart Component',
-  icon: '',
+  icon: icon,
   group: 'chartAndGauge',
   /* line|shape|textAndMedia|chartAndGauge|table|container|dataSource|IoT|3D|warehouse|form|etc */
   model: {
