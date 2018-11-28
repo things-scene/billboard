@@ -91,7 +91,7 @@ export default class Billboard extends HTMLOverlayContainer {
       try {
         eval(`config = ${config}`)
       } catch (e) {
-        scene.error(e)
+        error(e)
       }
     }
 
@@ -107,4 +107,4 @@ export default class Billboard extends HTMLOverlayContainer {
   }
 }
 
-scene.Component.register('billboard', Billboard);
+Component.register('billboard', Billboard);
